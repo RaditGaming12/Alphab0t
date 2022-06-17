@@ -15,7 +15,7 @@ global.self_mode = false
 global.autobio = true
 global.msg_connected = false
 global.user_register = false
-global.anti_delete = false
+global.anti_delete = true
 global.anticall = false
 global.auto_welcome_msg = true
 global.auto_leave_msg = true
@@ -23,14 +23,14 @@ global.prefix = "."
 global.language = "ind"
 global.ownerNumberr = "62887435047326"
 global.ownerbot = ['62887435047326@s.whatsapp.net','918156874290@s.whatsapp.net'] // .owner
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
-global.botname = "Alphabot"
+global.ownername = "ᴹᴿ᭄ DemonZ"
+global.botname = "Demonnz"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+global.fake = "「  ALPHABOT  」\nCreated By ᴹᴿ᭄ DemonZ"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
